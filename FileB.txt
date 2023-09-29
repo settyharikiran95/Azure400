@@ -1,1 +1,2 @@
 This is FileB text file.
+Altering the FileB text file.
